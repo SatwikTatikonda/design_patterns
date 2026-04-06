@@ -15,6 +15,8 @@ public class Client {
 
 
     }
+
+    //adding new lines to check if automatic polling is happening in Jenkins
     
 
 }
